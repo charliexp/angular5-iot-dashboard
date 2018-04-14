@@ -25,6 +25,9 @@
         "../node_modules/simplebar/dist/simplebar.css"
       ],
       "scripts": [
+        "assets/d3ne/alight.min.js",
+        "assets/d3ne/d3.min.js",
+        "assets/d3ne/d3-node-editor.js",
         "../node_modules/simplebar/dist/simplebar.js"
       ],
       "stylePreprocessorOptions": {
